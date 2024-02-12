@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Apex Legends - Champion Edition",
+    "releaseDate": "November 5, 2020",
+    "genre": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": "16V",
+    "publisher": "Electronic Arts",
+    "developer": "Respawn Entertainment",
+    "avatar": "https://images8.alphacoders.com/992/thumb-1920-992724.png",
+    "description": "Ready to become an Apex Champion? The Champion Edition is the best way to drop into the Arena with everything you need to instantly make your mark.",
+    "id": "1",
+    "trailer": "https://www.youtube.com/embed/qkLTsJXn-0M"
+  },
+  {
+    "name": "Battlefield 2042",
+    "releaseDate": "November 19, 2021",
+    "genre": [
+      "Action",
+      "Adventure",
+      "First Person",
+      "Shooter"
+    ],
+    "rating": "18LV PPS CI",
+    "publisher": "Electronic Arts",
+    "developer": "DICE",
+    "avatar": "https://wallpaperaccess.com/full/6098048.jpg",
+    "description": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise. In a near-future world transformed by disorder, adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal.",
+    "id": "2",
+    "trailer": "https://www.youtube.com/embed/B3sHih-u-uo"
+  },
+  {
+    "name": "F1 22",
+    "releaseDate": "July 1, 2022",
+    "genre": [
+      "Racing",
+      "Sports"
+    ],
+    "rating": "PG CI",
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters",
+    "avatar": "https://images6.alphacoders.com/125/1250891.jpg",
+    "description": "EA SPORTS™ F1® 22 is the official video game of the 2022 FIA Formula One World Championship™. Take your seat for a new season as redesigned cars and overhauled rules redefine race day, test your skills around the new Miami International Autodrome, and get a taste of the glitz and glamour in F1® Life.",
+    "id": "3",
+    "trailer": "https://www.youtube.com/embed/YgOi41qmlc4"
+  },
+  {
+    "name": "FIFA 23",
+    "releaseDate": "October 1, 2021",
+    "genre": [
+      "Action",
+      "Sports"
+    ],
+    "rating": "PG CI",
+    "publisher": "Electronic Arts",
+    "developer": "EA Canada",
+    "avatar": "https://wallpaperaccess.com/full/8406407.jpg",
+    "description": "EA SPORTS™ FIFA 23 brings The World’s Game to the pitch, with HyperMotion2 Technology that delivers even more gameplay realism, men’s and women’s FIFA World Cup™ coming during the season, women’s club teams, cross-play features*, and more.",
+    "id": "4",
+    "trailer": "https://www.youtube.com/embed/0tIW1X2dv0c"
+  },
+  {
+    "name": "Days Gone",
+    "releaseDate": "May 18, 2021",
+    "genre": [
+      "Action",
+      "Shooter"
+    ],
+    "rating": "16V",
+    "publisher": "PlayStation PC LLC",
+    "developer": "Bend Studio",
+    "avatar": "https://wallpapercave.com/wp/wp9271935.jpg",
+    "description": "Ride and fight into a deadly, post pandemic America. Play as Deacon St. John, a drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live in this open-world action-adventure game.",
+    "id": "5",
+    "trailer": "https://www.youtube.com/embed/p9XlSvnRk3E"
+  },
+  {
+    "name": "Assassin's Creed Valhalla: Dawn of Ragnarök",
+    "releaseDate": "March 10, 2022",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Role Playing"
+    ],
+    "rating": "18 LSV CI",
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Quebec",
+    "avatar": "https://wallpaperaccess.com/full/2702199.jpg",
+    "description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.",
+    "id": "6",
+    "trailer": "https://www.youtube.com/embed/EJZlPKD3E-4"
+  },
+  {
+    "name": "The Crew 2",
+    "releaseDate": "June 28, 2018",
+    "genre": [
+      "Action",
+      "MMO",
+      "Racing"
+    ],
+    "rating": "10-12 PG LV",
+    "publisher": "Ubisoft",
+    "developer": "Ivory Tower",
+    "avatar": "https://wallpaperaccess.com/full/2286463.png",
+    "description": "The newest iteration in the revolutionary franchise, The Crew® 2 captures the thrill of the American motorsports spirit in one of the most exhilarating open worlds ever created. Welcome to Motornation, a huge, varied, action-packed and beautiful playground built for motorsports throughout the entire US of A. Enjoy unrestrained exploration on ground, sea and sky. From coast to coast, street and pro racers, off-road explorers and freestylers gather and compete in all kinds of disciplines. Join them in high-octane contests and share every glorious moment with the world.",
+    "id": "7",
+    "trailer": "https://youtube.com/embed/MXN1nmL-DQU"
+  },
+  {
+    "name": "Need for Speed™ Heat",
+    "releaseDate": "November 8, 2019",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Flight",
+      "Racing",
+      "Sports"
+    ],
+    "rating": "13LV",
+    "publisher": "Electronic Arts",
+    "developer": "Ghost Games",
+    "avatar": "https://wallpapercave.com/wp/wp5008532.jpg",
+    "description": "Hustle by day and risk it all at night in Need for Speed™ Heat Deluxe Edition, a white-knuckle street racer, where the lines of the law fade as the sun starts to set.",
+    "id": "8",
+    "trailer": "https://www.youtube.com/embed/9ewiJJe_nYI"
+  },
+  {
+    "name": "The Sims™ 4 High School Years",
+    "releaseDate": "July 28, 2022",
+    "genre": [
+      "Simulation"
+    ],
+    "rating": "13",
+    "publisher": "Electronic Arts",
+    "developer": "Maxis",
+    "avatar": "https://wallpaperaccess.com/full/2093343.jpg",
+    "description": "Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more. Choose how Sims look, act, and dress. Tell your stories your way while developing relationships, pursuing careers and life aspirations, and immersing yourself in an extraordinary game where the possibilities are endless.",
+    "id": "9",
+    "trailer": "https://www.youtube.com/embed/1WXdXjROSbk"
+  },
+  {
+    "name": "Anthem",
+    "releaseDate": "February 22, 2019",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Role Playing",
+      "Shooter"
+    ],
+    "rating": "13DLV",
+    "publisher": "Electronic Arts",
+    "developer": "BioWare",
+    "avatar": "https://wallpaperaccess.com/full/255719.jpg",
+    "description": "Unleash Your Power. In a world left unfinished by the gods, a shadowy faction threatens all humankind. Only you stand between the Dominion and the ancient power they covet. Team up as heroes in this cooperative action-RPG from BioWare™ and EA.",
+    "id": "10",
+    "trailer": "https://www.youtube.com/embed/ZFwylDNpgFc"
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "releaseDate": "December 9, 2020",
+    "genre": [
+      "Action",
+      "Role Playing"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "CD Projekt",
+    "developer": "CD Projekt Red",
+    "avatar": "https://wallpaperaccess.com/full/1096890.png",
+    "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "id": "11",
+    "trailer": "https://www.youtube.com/embed/UnA7tepsc7s"
+  },
+  {
+    "name": "GRID Legends",
+    "releaseDate": "February 24, 2022",
+    "genre": [
+      "Racing"
+    ],
+    "rating": "10-12 PG LV CI",
+    "publisher": "Electronic Arts",
+    "developer": "Codemasters",
+    "avatar": "https://images8.alphacoders.com/116/thumb-1920-1160193.jpg",
+    "description": "GRID Legends delivers thrilling wheel-to-wheel motorsport and edge-of-your-seat action around the globe. Create your dream motorsport events, hop into live multiplayer races, be part of the drama in an immersive virtual production story and embrace the sensation of spectacular action racing.",
+    "id": "12",
+    "trailer": "https://www.youtube.com/embed/1Vgj1I3YG8g"
+  },
+  {
+    "name": "God of War",
+    "releaseDate": "January 14, 2022",
+    "genre": [
+      "Action",
+      "Adventure"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Sony Interactive Entertainment",
+    "developer": "Santa Monica Studio",
+    "avatar": "https://wallpaperaccess.com/full/2592101.jpg",
+    "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… and teach his son to do the same.",
+    "id": "13",
+    "trailer": "https://www.youtube.com/embed/hfJ4Km46A-0"
+  },
+  {
+    "name": "Sniper Ghost Warrior Contracts 2",
+    "releaseDate": "June 4, 2021",
+    "genre": [
+      "Action",
+      "Shooter",
+      "Stealth"
+    ],
+    "rating": "16LV",
+    "publisher": "Uderdog Studio",
+    "developer": "CI Games",
+    "avatar": "https://images2.alphacoders.com/115/1150297.jpg",
+    "description": "SGW Contracts 2 is a modern warfare shooter set in the Middle East. Play as Raven, Contract Sniper Assassin, as you take out a series of targets across a dramatic single-player campaign. With extreme-range shots exceeding 1000m, gear up for the most challenging entry to the series yet.",
+    "id": "14",
+    "trailer": "https://www.youtube.com/embed/36mfp4GYLX4"
+  },
+  {
+    "name": "Call of Duty®: Modern Warfare® II",
+    "releaseDate": "October 28, 2022",
+    "genre": [
+      "Action",
+      "Shooter",
+      "First Person"
+    ],
+    "rating": "18LV CI",
+    "publisher": "Activision",
+    "developer": "Infinity Ward",
+    "avatar": "https://images5.alphacoders.com/125/1256047.png",
+    "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141.",
+    "id": "15",
+    "trailer": "https://www.youtube.com/embed/r72GP1PIZa0"
+  },
+  {
+    "name": "Watch Dogs® 2",
+    "releaseDate": "November 29, 2016",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft",
+    "avatar": "https://wallpaperaccess.com/full/275059.jpg",
+    "description": "Welcome to San Francisco. Play as Marcus, a brilliant young hacker, and join the most notorious hacker group, DedSec. Your objective: execute the biggest hack of history.",
+    "id": "16",
+    "trailer": "https://www.youtube.com/embed/2GIVVsTKTLg"
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "releaseDate": "November 18, 2014",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar North",
+    "avatar": "https://wallpaperaccess.com/full/1564264.jpg",
+    "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.",
+    "id": "17",
+    "trailer": "https://www.youtube.com/embed/hBvMSP7cI-Q"
+  },
+  {
+    "name": "Tom Clancy’s Rainbow Six® Siege",
+    "releaseDate": "December 1, 2015",
+    "genre": [
+      "Shooter",
+      "Action"
+    ],
+    "rating": "PEGI 16",
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal",
+    "avatar": "https://wallpaperaccess.com/full/1264433.png",
+    "description": "Tom Clancy's Rainbow Six Siege is the latest installment of the acclaimed first-person shooter franchise developed by the renowned Ubisoft Montreal studio.",
+    "id": "18",
+    "trailer": "https://www.youtube.com/embed/KlbLLRdg9u8"
+  },
+  {
+    "name": "Shadow of the Tomb Raider",
+    "releaseDate": "January 1, 2014",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Square Enix Ltd",
+    "developer": "Eidos Montreal",
+    "avatar": "https://wallpaperaccess.com/full/1312248.jpg",
+    "description": "The cinematic action-adventure that forced Lara Croft to grow from an inexperienced young woman into a hardened survivor has been re-built for next-gen consoles, featuring an obsessively detailed Lara and a stunningly lifelike world.",
+    "id": "19",
+    "trailer": "https://www.youtube.com/embed/XYtyeqVQnRI"
+  },
+  {
+    "name": "Gran Turismo® 7",
+    "releaseDate": "March 04, 2022",
+    "genre": [
+      "Driving",
+      "Racing"
+    ],
+    "rating": "PEGI 3 Suitable for all ages",
+    "publisher": "Polyphony Digital Inc",
+    "developer": "Sony Interactive Entertainment",
+    "avatar": "https://wallpaperaccess.com/full/7577537.jpg",
+    "description": "Gran Turismo 7 brings together the very best features of the Real Driving Simulator.",
+    "id": "20",
+    "trailer": "https://www.youtube.com/embed/1tBUsXIkG1A"
+  },
+  {
+    "name": "Uncharted 4: A Thief's End",
+    "releaseDate": "May 10, 2016",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 12",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Naughty Dog Software",
+    "avatar": "https://wallpaperaccess.com/full/331887.jpg",
+    "description": "The latest title in the Uncharted series is the first in this third-person adventure series on the Playstation 4 game system.",
+    "id": "21",
+    "trailer": "https://www.youtube.com/embed/UBlvb9WSfD0"
+  },
+  {
+    "name": "Overwatch 2",
+    "releaseDate": "October 4, 2022",
+    "genre": [
+      "Adventure",
+      "First Person",
+      "Action"
+    ],
+    "rating": "PEGI 12",
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "avatar": "https://wallpaperaccess.com/full/2148632.jpg",
+    "description": "Power up your railgun and disrupt the battlefield as Sojourn, or yield your axe and command attention as Junker Queen.",
+    "id": "22",
+    "trailer": "https://www.youtube.com/embed/LGgqyer-qr4"
+  },
+  {
+    "name": "PUBG: BATTLEGROUNDS",
+    "releaseDate": "December 21, 2017",
+    "genre": [
+      "Adventure",
+      "First Person",
+      "Action"
+    ],
+    "rating": "PEGI 12",
+    "publisher": "KRAFTON, Inc",
+    "developer": "KRAFTON, Inc",
+    "avatar": "https://wallpaperaccess.com/full/2225313.jpg",
+    "description": "Land on strategic locations, loot weapons and supplies, and survive to become the last team standing across various, diverse Battlegrounds. Squad up and join the Battlegrounds for the original Battle Royale experience that only PUBG: BATTLEGROUNDS can offer.",
+    "id": "23",
+    "trailer": "https://www.youtube.com/embed/OUeQjwzSbc4"
+  },
+  {
+    "name": "Far Cry® 5",
+    "releaseDate": "March 27, 2018",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Ubisoft",
+    "developer": "Ubisoft Montreal, Red Storm",
+    "avatar": "https://wallpaperaccess.com/full/636390.jpg",
+    "description": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community.",
+    "id": "24",
+    "trailer": "https://www.youtube.com/embed/Kdaoe4hbMso"
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "releaseDate": "December 05, 2019",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Rockstar Games",
+    "developer": "Rockstar Games",
+    "avatar": "https://wallpaperaccess.com/full/3645140.jpg",
+    "description": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community.",
+    "id": "25",
+    "trailer": "https://www.youtube.com/embed/F63h3v9QV7w"
+  },
+  {
+    "name": "HITMAN 3",
+    "releaseDate": "January 20, 2022",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "IO Interactive A/S",
+    "developer": "IO Interactive A/S",
+    "avatar": "https://wallpaperaccess.com/full/3703678.jpg",
+    "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
+    "id": "26",
+    "trailer": "https://www.youtube.com/embed/Z29ORu6_p34"
+  },
+  {
+    "name": "Call of Duty®: Black Ops III",
+    "releaseDate": "November 06, 2015",
+    "genre": [
+      "Adventure",
+      "Action"
+    ],
+    "rating": "PEGI 18",
+    "publisher": "Treyarch, Aspyr (Mac)",
+    "developer": "Activision, Aspyr (Mac)",
+    "avatar": "https://wallpapercave.com/dwp2x/wp1917958.jpg",
+    "description": "Call of Duty®: Black Ops III Zombies Chronicles Edition includes the full base game plus the Zombies Chronicles content expansion.",
+    "id": "27",
+    "trailer": "https://www.youtube.com/embed/qAUYNIDEJ6o"
+  }
+]
